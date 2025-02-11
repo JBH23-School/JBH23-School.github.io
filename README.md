@@ -1,7 +1,7 @@
 # JBH23-School.github.io
 
 Justin Horta
-jbhorta@my.waketeh.edu
+jbhorta@my.waketech.edu
 
 This is my school account.
 
