@@ -1,5 +1,5 @@
 // TODO: Fetch date from the PostgreSQL database (to be implemented later)
-function fetchGradData() {
+function fetchGradeData() {
   // This function will query the PostgreSQL database and return grade data
   console.log("Fetching grade date...")
 }
@@ -13,4 +13,4 @@ function populateGradebook(data) {
 // Call the stubs to demonstrate the workflow
 const gradeData = fetchGradeData();
 poulateGradebook(gradeData);
-// END ReMOVE
+// END REMOVE
